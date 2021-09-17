@@ -1,0 +1,6 @@
+C:\Users\home\source\repos\OpenWord\OpenWord\bin\Debug\OpenWord.exe.config
+C:\Users\home\source\repos\OpenWord\OpenWord\bin\Debug\OpenWord.exe
+C:\Users\home\source\repos\OpenWord\OpenWord\bin\Debug\OpenWord.pdb
+C:\Users\home\source\repos\OpenWord\OpenWord\obj\Debug\OpenWord.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\OpenWord\OpenWord\obj\Debug\OpenWord.exe
+C:\Users\home\source\repos\OpenWord\OpenWord\obj\Debug\OpenWord.pdb
